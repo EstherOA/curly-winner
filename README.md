@@ -41,7 +41,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://estheroa.github.io/curly-winner/src/)
+- Live Site URL: [Product Preview Card Component](https://estheroa.github.io/curly-winner/src/)
 
 ## My process
 
